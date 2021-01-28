@@ -46,10 +46,12 @@ if __name__ == '__main__':
     hidden_dim = int(encoding_dim / 2)
 
     input_layer = Input(shape=(input_dim, ))
-    encoder = Dense(encoding_dim, activation="tanh", activity_regularizer=regularizers.l1(1e-6))(input_layer)
-    encoder = Dense(hidden_dim, activation="tanh")(encoder)
-    decoder = Dense(encoding_dim, activation='tanh')(encoder)
-    decoder = Dense(input_dim, activation='tanh')(decoder)
+    
+    
+    encoder = Dense(encoding_dim, activation="relu")(input_layer)#activity_regularizer=regularizers.l1(lr))(input_layer)
+    encoder = Dense(hidden_dim, activation="relu")(encoder)
+    decoder = Dense(encoding_dim, activation='relu')(encoder)
+    decoder = Dense(input_dim, activation='relu')(decoder)
     autoencoder = Model(inputs=input_layer, outputs=decoder)
 
     autoencoder.compile(optimizer='adam', loss='mean_squared_error')
