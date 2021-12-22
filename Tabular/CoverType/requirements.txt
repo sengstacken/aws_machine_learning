@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pandas
+boto3
+sagemaker==2.59.1
