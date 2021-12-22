@@ -1,0 +1,7 @@
+cuad-data/
+cuad-models/
+cuad-training/
+__pycache__/
+temp/
+.ipynb_checkpoints/
+streamlit/

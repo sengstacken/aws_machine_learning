@@ -1,0 +1,40 @@
+{
+    "0": [
+        {
+            "text": "The term of this Agreement shall be ten (10) years (the \"Term\") which shall commence on the date upon which the Company delivers to Distributor the last Sample, as defined hereinafter.",
+            "probability": 0.7390376093749573,
+            "start_logit": 9.529376983642578,
+            "end_logit": 9.426068305969238
+        },
+        {
+            "text": "7th day of September, 1999.",
+            "probability": 0.2114331269146031,
+            "start_logit": 8.802209854125977,
+            "end_logit": 8.901795387268066
+        },
+        {
+            "text": "Unless earlier terminated otherwise provided therein, this Agreement, subject to the commencement date established in Section 1.3, shall be effective immediately.",
+            "probability": 0.04378594324949106,
+            "start_logit": 8.206672668457031,
+            "end_logit": 7.922736644744873
+        },
+        {
+            "text": "this 7th day of September, 1999.",
+            "probability": 0.005682502386584134,
+            "start_logit": 5.18569278717041,
+            "end_logit": 8.901795387268066
+        },
+        {
+            "text": "The",
+            "probability": 6.064899567679408e-05,
+            "start_logit": 9.529376983642578,
+            "end_logit": 0.018067291006445885
+        },
+        {
+            "text": "",
+            "probability": 1.6907868742523368e-07,
+            "start_logit": 1.8028284311294556,
+            "end_logit": 1.8621217012405396
+        }
+    ]
+}
