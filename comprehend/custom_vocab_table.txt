@@ -1,0 +1,6 @@
+Phrase	IPA	SoundsLike	DisplayAs
+gigahertz			GHz
+gigabytes			GB
+terabyte			TB
+A.M.D		ay-em-dee	AMD
+Xbox-Series-X		ex-box-seriz-ex	Xbox Series X
