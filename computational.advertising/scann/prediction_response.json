@@ -1,0 +1,12 @@
+{
+    "predictions": [
+        {
+            "output_1": [2.19959259, 2.11500525, 1.87805462, 1.87397075, 1.82147372, 1.81811309, 1.77092397, 1.76034117, 1.75835824, 1.7510314],
+            "output_2": ["Kid in King Arthur's Court, A (1995)", "Homeward Bound: The Incredible Journey (1993)", "Cool Runnings (1993)", "Angels in the Outfield (1994)", "Bridges of Madison County, The (1995)", "Aristocats, The (1970)", "Winnie the Pooh and the Blustery Day (1968)", "Lion King, The (1994)", "Jungle Book, The (1994)", "D3: The Mighty Ducks (1996)"]
+        },
+        {
+            "output_1": [1.78076386, 1.69247246, 1.68209136, 1.65398324, 1.64403212, 1.59631383, 1.49829984, 1.49201, 1.47684073, 1.45613444],
+            "output_2": ["Now and Then (1995)", "Cool Runnings (1993)", "Only You (1994)", "Little Women (1994)", "Corrina, Corrina (1994)", "Fox and the Hound, The (1981)", "Affair to Remember, An (1957)", "Walk in the Clouds, A (1995)", "While You Were Sleeping (1995)", "Homeward Bound: The Incredible Journey (1993)"]
+        }
+    ]
+}
